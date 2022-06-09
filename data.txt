@@ -6,3 +6,6 @@ Echo, 12
 Dodi, 21
 Eko, 42
 Farhan, 26
+Anin, 31
+Bobi, 32
+Coki, 33
