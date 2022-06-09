@@ -3,3 +3,6 @@ Budi, 31
 Charles, 11
 Donald, 53
 Echo, 12
+Dodi, 21
+Eko, 42
+Farhan, 26
