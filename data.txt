@@ -1,3 +1,6 @@
 Alex, 12
 Budi, 31
 Charles, 11
+Dodi, 21
+Eko, 42
+Farhan, 26
